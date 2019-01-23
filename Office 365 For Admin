@@ -1,0 +1,22 @@
+
+    Exporter tous les utilisateurs vers un fichier CSV
+    Exporter les groupes de distribution & de sécurité vers un fichier CSV (avec ou sans les membres)
+    Exporter tous les groupes Office 365 vers un fichier CSV (avec ou sans les membres)
+    Exporter les licences vers un fichier CSV
+    Exporter les domaines vers un fichier CSV
+    Afficher un utilisateur à l'écran (à partir de son UPN)
+    Afficher les membres d'un groupe à l'écran (à partir de son UPN)
+    Activer / Désactiver la possibilité de créer des groupes Office 365 pour les utilisateurs
+
+    Exporter la liste des BAL utilisateurs (adresse mail, alias, quotas, ...) vers un fichier CSV
+    Afficher une BAL utilisateur à l'écran
+    Exporter les listes de distribution vers un fichier CSV (avec et sans les membres)
+    Afficher les BAL membres d'une liste de distribution à l'écran
+    Exporter les BAL partagées vers un fichiers CSV (avec et sans les appartenances)
+    Afficher les appartenances d'une BAL partagée
+    Désactiver / Activer la fonctionnalité boîte aux lettres prioritaire et Clutter Mailbox
+    
+    
+Exécutez le script o365_4_admin.ps1.
+
+https://github.com/sschorgen/PowerShell/tree/master/O365_4_Admin
